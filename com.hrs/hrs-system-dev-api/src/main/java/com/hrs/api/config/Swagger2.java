@@ -40,7 +40,7 @@ public class Swagger2 {
 
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
-                .title("慕课新闻·自媒体接口api")                       //
+                .title("API")                       //
                 .contact(new Contact("hrs",
                         "https://www.hrs.com",
                         "hrs@hrs.com"))                   //
